@@ -1,0 +1,24 @@
+img{
+border-radius:4px;
+padding:30px;
+height:250px;
+width:250px;
+}
+table,tr,th{
+align="center"
+}
+h1{
+align="center"
+}
+li{
+align="center"
+}
+button{
+color:red;
+backgroun-color:yellow;
+border:none;
+display:inline-block;
+text-align:center;
+font-size:12px;
+padding:15px 30px;
+}
